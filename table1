@@ -1,0 +1,52 @@
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h2>Bordered Table</h2>
+<p>Use the CSS border property to add a border to the table.</p>
+
+<table style="width:100%">
+  <tr>
+    <th>name</th>
+    <th>usn</th> 
+    <th>dob</th>
+    <th>gender</th>
+    <th>mail id</th> 
+    <th>address</th>
+    <th>phone no</th>
+  </tr>
+ <tr>
+    <td>Jill</td>
+    <td>4sf17is096</td>
+    <td>01-12-1999</td>
+    <td>male</td>
+    <td>jill@gmail,com</td>
+    <td>manglore</td>
+    <td>8956478947</td>
+  </tr>
+   <tr>
+    <td>jolly</td>
+    <td>4sf17is006</td>
+    <td>01-2-1999</td>
+    <td>male</td>
+    <td>jolly@gmail,com</td>
+    <td>manglore</td>
+    <td>7456582527</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>4sf17is026</td>
+    <td>10-2-1999</td>
+    <td>male</td>
+    <td>john@gmail,com</td>
+    <td>banglore</td>
+    <td>9456478257</td>
+  </tr>
+</table>
+
+</body>
